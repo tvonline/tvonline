@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="tvonline.repository" name="TV Online Repository" version="0.0.2" provider-name="tvonline">
+	<extension point="xbmc.addon.repository" name="TV Online Repository">
+		<info compressed="false">http://raw.github.com/tvonline/tvonline.repository/master/addons.xml</info>
+		<checksum>http://raw.github.com/tvonline/tvonline.repository/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.github.com/tvonline/tvonline.repository/master/repo/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Canal do Youtube: TV Online</summary>
+		<description>Canais Premium da Televisão</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
